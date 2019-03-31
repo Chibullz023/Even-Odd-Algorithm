@@ -1,0 +1,7 @@
+C:\Users\Miguel\source\repos\Even-OddAlgorithm\Even-OddAlgorithm\bin\Debug\Even-OddAlgorithm.exe.config
+C:\Users\Miguel\source\repos\Even-OddAlgorithm\Even-OddAlgorithm\bin\Debug\Even-OddAlgorithm.exe
+C:\Users\Miguel\source\repos\Even-OddAlgorithm\Even-OddAlgorithm\bin\Debug\Even-OddAlgorithm.pdb
+C:\Users\Miguel\source\repos\Even-OddAlgorithm\Even-OddAlgorithm\obj\Debug\Even-OddAlgorithm.csprojAssemblyReference.cache
+C:\Users\Miguel\source\repos\Even-OddAlgorithm\Even-OddAlgorithm\obj\Debug\Even-OddAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Even-OddAlgorithm\Even-OddAlgorithm\obj\Debug\Even-OddAlgorithm.exe
+C:\Users\Miguel\source\repos\Even-OddAlgorithm\Even-OddAlgorithm\obj\Debug\Even-OddAlgorithm.pdb
